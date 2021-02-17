@@ -13,3 +13,12 @@
 ### 1802. 종이 접기
 * S2
 > * 출처 : https://www.acmicpc.net/problem/1802
+
+## 2021-02-17
+### 1493. 박스 채우기
+* G5
+> * 출처 : https://www.acmicpc.net/problem/1493
+
+### 1939. 중량제한
+* G4
+> * 출처 : https://www.acmicpc.net/problem/1939
