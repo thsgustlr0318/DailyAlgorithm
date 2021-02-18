@@ -22,3 +22,8 @@
 ### 1939. 중량제한
 * G4
 > * 출처 : https://www.acmicpc.net/problem/1939
+
+## 2021-02-18
+### 1062. 가르침
+* G4
+> * 출처 : https://www.acmicpc.net/problem/1062
