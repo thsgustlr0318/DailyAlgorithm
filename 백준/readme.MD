@@ -1,13 +1,26 @@
 # 백준
 
+## 2021-02-23
+### 1799. 비숍
+* G2
+> * 출처 : https://www.acmicpc.net/problem/1799
+
+### 2661. 좋은 수열
+* G4
+> * 출처 : https://www.acmicpc.net/problem/2661
+
+
 ## 2021-02-22
 ### 1038. 감소하는 수
 * G5
 > * 출처 : https://www.acmicpc.net/problem/1038
+
+
 ## 2021-02-21
 ### 1051. 숫자 정사각형
 * S3
 > * 출처 : https://www.acmicpc.net/problem/1051
+
 
 ## 2021-02-19
 ### 1339. 단어수학
