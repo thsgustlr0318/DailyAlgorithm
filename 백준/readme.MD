@@ -21,7 +21,7 @@
 * S3
 > * 출처 : https://www.acmicpc.net/problem/11399
 
-### 17413. 단어 뒤집기 3
+### 17413. 단어 뒤집기 2
 * S3
 > * 출처 : https://www.acmicpc.net/problem/17413
 
