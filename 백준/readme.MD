@@ -5,6 +5,14 @@
 * G4
 > * 출처 : https://www.acmicpc.net/problem/19238
 
+### 10844. 쉬운 계단 수
+* S1
+> * 출처 : https://www.acmicpc.net/problem/10844
+
+### 1562. 계단 수
+* G1
+> * 출처 : https://www.acmicpc.net/problem/1562
+
 
 ## 2021-03-02
 ### 10026. 적록색약
