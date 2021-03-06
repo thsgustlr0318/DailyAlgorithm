@@ -10,7 +10,7 @@ int main()
 	cin >> n >> k;
 	arr[n] = 1;
 	queue<pair<int, int>> q;
-	vector<pair<int, int>> res;
+	vector<int> res;
 	q.push({ n, 1 });
 	//bfs
 	while (!q.empty()) {
@@ -18,29 +18,32 @@ int main()
 		q.pop();
 		//동생 위치 찾은 경우
 		if (cur.first == k) {
-			cout << cur.second -1 << "\n";
+			cout << cur.second - 1 << "\n";
 			int idx = cur.first;
 			int cnt = cur.second - 1;
-			
-			res.push_back(cur);
+
+			res.push_back(idx);
 			//바로 이전에 수빈이가 있었던 자리 역으로 탐색
 			while (cnt != 0) {
 				//현재 위치가 홀수가 아니고, 바로 이전에 2*X 위치로 움직인 경우
 				if (!(idx & 1) && arr[idx / 2] == cnt) {
 					idx = idx / 2;
-					res.push_back({ idx, cnt-- });
+					res.push_back(idx);
+					cnt--;
 					continue;
 				}
 				//바로 이전에 X+1 위치로 움직인 경우
 				else if (idx + 1 <= MAXLEN && arr[idx + 1] == cnt) {
 					idx = idx + 1;
-					res.push_back({ idx, cnt-- });
+					res.push_back(idx);
+					cnt--;
 					continue;
 				}
 				//바로 이전에 X-1 위치로 움직인 경우
 				else if (idx - 1 >= 0 && arr[idx - 1] == cnt) {
 					idx = idx - 1;
-					res.push_back({ idx, cnt-- });
+					res.push_back(idx);
+					cnt--;
 					continue;
 				}
 			}
@@ -67,6 +70,6 @@ int main()
 		}
 	}
 	for (int i = res.size() - 1; i >= 0; i--) {
-		cout << res[i].first << " ";
+		cout << res[i] << " ";
 	}
 }
