@@ -1,5 +1,14 @@
 # 백준
 
+## 2021-03-08
+### 1027. 고층 건물
+* G4
+> * 출처 : https://www.acmicpc.net/problem/1027
+
+### 5527. 전구 장식
+* G4
+> * 출처 : https://www.acmicpc.net/problem/5527
+
 ## 2021-03-07
 ### 1300. K번째 수
 * G3
