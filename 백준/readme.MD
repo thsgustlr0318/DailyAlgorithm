@@ -5,6 +5,10 @@
 * P5
 > * 출처 : https://www.acmicpc.net/problem/1305
 
+### 10266. 시계 사진들
+* P5
+> * 출처 : https://www.acmicpc.net/problem/10266
+
 ## 2021-03-11
 ### 1918. 후위 표기식
 * G4
