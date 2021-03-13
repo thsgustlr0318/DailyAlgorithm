@@ -21,3 +21,6 @@ public class _210312_BOJ_P5_1305_광고 {
 		System.out.println(len - arr[len - 1]);
 	}
 }
+//KMP
+//광고는 첫글자부터 시작
+//접두사와 접미사가 같은 부분을 빼주면, 최대 길이가 됨
