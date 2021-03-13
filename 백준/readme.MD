@@ -3,12 +3,14 @@
 ## 2021-03-12
 ### 2437. 저울
 * G3
-> * 출처 : https://www.acmicpc.net/problem/2437
+> *그리디*
+>> * 출처 : https://www.acmicpc.net/problem/2437
 
 ### 1715. 카드 정렬하기
 * G4
-> * 출처 : https://www.acmicpc.net/problem/1715
-
+> *그리디*
+>> * 출처 : https://www.acmicpc.net/problem/1715
+***
 
 ## 2021-03-12
 ### 1305. 광고
