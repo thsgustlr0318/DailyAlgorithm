@@ -3,8 +3,8 @@
 ## 2021-03-12
 ### 2437. 저울
 * G3
-> *그리디*
->> * 출처 : https://www.acmicpc.net/problem/2437
+> -*그리디*
+>> + 출처 : https://www.acmicpc.net/problem/2437
 
 ### 1715. 카드 정렬하기
 * G4
