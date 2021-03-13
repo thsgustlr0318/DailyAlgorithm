@@ -9,19 +9,19 @@
 ### 1715. 카드 정렬하기
 * G4
     * 그리디, 우선순위 큐
->> * 출처 : https://www.acmicpc.net/problem/1715
+> 출처 : https://www.acmicpc.net/problem/1715
 
 
 ## 2021-03-12
 ### 1305. 광고
 * P5
-> * *KMP, 문자열*
->> * 출처 : https://www.acmicpc.net/problem/1305
+    * *KMP, 문자열*
+> 출처 : https://www.acmicpc.net/problem/1305
 
 ### 10266. 시계 사진들
 * P5
-> * *KMP, 문자열*
->> * 출처 : https://www.acmicpc.net/problem/10266
+    * *KMP, 문자열*
+> 출처 : https://www.acmicpc.net/problem/10266
 
 ## 2021-03-11
 ### 1918. 후위 표기식
