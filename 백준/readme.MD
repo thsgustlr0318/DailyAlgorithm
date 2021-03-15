@@ -1,11 +1,30 @@
 # 백준
 
+## 2021-03-15
+### 2629. 양팔저울
+* G3
+    * *DP, SET*
+> 출처 : https://www.acmicpc.net/problem/2629
+
+### 14002. 가장 긴 증가하는 부분수열4
+* G4
+    * *DP*
+> 출처 : https://www.acmicpc.net/problem/14002
+
+### 2293. 동전1
+* S1
+    * *DP*
+> 출처 : https://www.acmicpc.net/problem/2293
+
+<br>
+
 ## 2021-03-14
 ### 1253. 좋다
 * G3
     * *투 포인터*
 > 출처 : https://www.acmicpc.net/problem/1253
 
+<br>
 
 ## 2021-03-13
 ### 2437. 저울
