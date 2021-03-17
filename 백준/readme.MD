@@ -1,8 +1,25 @@
 # 백준
 
+
+## 2021-03-17
+### 14889. 스타트와 링크
+* 14889
+    * *백트래킹, 완전탐색*
+> 출처 : https://www.acmicpc.net/problem/14889
+
+<br>
+
+## 2021-03-16
+### 1086. 박성원
+* P5
+    * *DP, 비트마스킹*
+> 출처 : https://www.acmicpc.net/problem/1086
+
+<br>
+
 ## 2021-03-15
 ### 2629. 양팔저울
-* G3
+* G2
     * *DP, SET*
 > 출처 : https://www.acmicpc.net/problem/2629
 
