@@ -6,13 +6,42 @@
     * *KMP*
 > 출처 : https://www.acmicpc.net/problem/1786
 
+### 2610. 회의준비
+* G2
+    * *플로이드–와샬*
+> 출처 : https://www.acmicpc.net/problem/2610
+
+### 1613. 역사
+* G3
+    * *플로이드–와샬*
+> 출처 : https://www.acmicpc.net/problem/1613
+
+### 11404. 플로이드
+* G4
+    * *플로이드–와샬*
+> 출처 : https://www.acmicpc.net/problem/11404
+
 ### 1753. 최단경로
 * G5
     * *다익스트라, 그래프*
 > 출처 : https://www.acmicpc.net/problem/1753
 
-<br>
+### 1916. 최소비용 구하기
+* G5
+    * *다익스트라, 그래프*
+> 출처 : https://www.acmicpc.net/problem/1916
 
+### 11403. 경로찾기
+* S1
+    * *플로이드–와샬*
+> 출처 : https://www.acmicpc.net/problem/11403
+
+### 1389. 케빈 베이컨의 6단계 법칙
+* S1
+    * *BFS*
+> 출처 : https://www.acmicpc.net/problem/1389
+
+<br>
 
 ## 2021-03-17
 ### 14889. 스타트와 링크
