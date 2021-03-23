@@ -1,5 +1,24 @@
 # 백준
 
+## 2021-03-23
+
+### 10875. 뱀
+* G1
+    * *구현*
+> 출처 : https://www.acmicpc.net/problem/10875
+
+### 18809. Gaaaaaaaaaarden
+* G1
+    * *구현*
+> 출처 : https://www.acmicpc.net/problem/18809
+
+### 1238. 파티
+* G3
+    * *다익스트라*
+> 출처 : https://www.acmicpc.net/problem/1238
+
+<br>
+
 ## 2021-03-22
 ### 1786. 찾기
 * G1
