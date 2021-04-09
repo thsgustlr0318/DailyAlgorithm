@@ -51,4 +51,10 @@ public class _210409_뉴스클러스터링 {
 		answer = (int) ans;
 		return answer;
 	}
+
+	public static void main(String[] args) {
+		String str1 = "aa1+aa2";
+		String str2 = "AAAA12";
+		System.out.println(solution(str1, str2));
+	}
 }
