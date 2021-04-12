@@ -1,12 +1,11 @@
 
 public class _210412_다트게임 {
 	public static int solution(String dartResult) {
-		int answer = 0;
 		int[] score = new int[3];
 		int index = 0;
 		for (int i = 0; i < 3; i++) {
-			String temp = "";
 			//점수
+			String temp = "";
 			for (; index < dartResult.length(); index++) {
 				if ('0' <= dartResult.charAt(index) && dartResult.charAt(index) <= '9')
 					temp += dartResult.charAt(index);
@@ -14,7 +13,7 @@ public class _210412_다트게임 {
 					break;
 			}
 			score[i] = Integer.parseInt(temp);
-			//SDT
+			//S, D, T
 			if (dartResult.charAt(index) == 'D') {
 				score[i] = (int) Math.pow(score[i], 2);
 			} else if (dartResult.charAt(index) == 'T') {
@@ -22,7 +21,7 @@ public class _210412_다트게임 {
 			}
 			index++;
 			//스타상, 아차상
-			if(index == dartResult.length())
+			if (index == dartResult.length())
 				continue;
 			if (dartResult.charAt(index) == '#') {
 				score[i] *= -1;
