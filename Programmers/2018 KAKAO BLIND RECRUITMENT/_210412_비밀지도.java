@@ -2,7 +2,11 @@
 public class _210412_비밀지도 {
 	public static String[] solution(int n, int[] arr1, int[] arr2) {
 		String[] answer = new String[n];
+		//char 배열
 		char[][] map = new char[n][n];
+		for (int i = 0; i < n; i++)
+			for (int j = 0; j < n; j++)
+				map[i][j] = ' ';
 		for (int y = 0; y < n; y++) {
 			for (int index = 0, cur = arr1[y] | arr2[y]; cur != 0; cur /= 2, index++) {
 				if ((cur & 1) == 1)
@@ -13,10 +17,8 @@ public class _210412_비밀지도 {
 		}
 		for (int y = 0; y < n; y++) {
 			answer[y] = "";
-			for (int x = n - 1; x >= 0; x--) {
+			for (int x = n - 1; x >= 0; x--) 
 				answer[y] += map[y][x];
-			}
-			answer[y] = answer[y].replaceAll("\u0000", " ");
 		}
 		return answer;
 	}
