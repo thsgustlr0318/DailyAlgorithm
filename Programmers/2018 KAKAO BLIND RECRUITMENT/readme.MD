@@ -1,5 +1,36 @@
 # 2018 KAKAO BLIND RECRUITMENT
 
+### [3차] 방금그곡
+* *문자열*  
+> 출처 : https://programmers.co.kr/learn/courses/30/lessons/17683
+
+<br>
+
+### [3차] 압축
+* *문자열, MAP*  
+> 출처 : https://programmers.co.kr/learn/courses/30/lessons/17684
+
+<br>
+
+### [3차] 자동완성
+* *문자열*  
+> 출처 : https://programmers.co.kr/learn/courses/30/lessons/17685
+
+<br>
+
+### [3차] 파일명 정렬
+* *문자열*  
+> 출처 : https://programmers.co.kr/learn/courses/30/lessons/17686
+
+<br>
+
+### [3차] n진수 게임
+* *구현*  
+> 출처 : https://programmers.co.kr/learn/courses/30/lessons/17687
+
+<br>
+
+
 ### [1차] 추석 트래픽
 * *문자열, 슬라이딩 윈도우*  
 > 출처 : https://programmers.co.kr/learn/courses/30/lessons/17676
